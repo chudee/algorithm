@@ -10,7 +10,7 @@ func BubbleSort(data []int) []int {
 				isSwap = true
 			}
 		}
-		
+
 		if !isSwap {
 			break
 		}
